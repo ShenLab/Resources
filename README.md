@@ -20,7 +20,7 @@ Background on Immunology
 
 Background on RNA-Seq
 =========
-
+* [Typical Workflow in RNA-Seq](http://www.bioconductor.org/help/workflows/rnaseqGene/) -- Referenece for RNA-Seq startup analysis.
 
 Background on Single Cell Sequencing
 =========
