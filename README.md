@@ -10,6 +10,7 @@ Background on Genomics
 
 * [Next Generation DNA Sequencing](http://www.nature.com/nbt/journal/v26/n10/full/nbt1486.html)
 * [Next Generation DNA Sequencing (2)](http://www.nature.com/nrg/journal/v11/n1/full/nrg2626.html)
+* [NGS Library Preparation and Bias](http://www.ncbi.nlm.nih.gov/pubmed/24440557)
 
 Background on Immunology
 =========
